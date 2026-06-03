@@ -1,0 +1,6849 @@
+{
+  "2026-06": {
+    "id": "2026-06",
+    "name": "June 2026 (জুন ২০২৬)",
+    "members": [
+      {
+        "id": "1",
+        "name": "ইমরান ভাই (Imran Bhai)",
+        "phone": "01712345678",
+        "isActive": true
+      },
+      {
+        "id": "2",
+        "name": "মাসুদ (Masud)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "3",
+        "name": "অভি (Ovi)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "4",
+        "name": "সাফায়েত ভাই (Safayet Bhai)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "5",
+        "name": "আবির (Abir)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "6",
+        "name": "সোহাগ (Sohag)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "7",
+        "name": "ইমন (Imon)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "8",
+        "name": "হৃদয় (Hridoy)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "9",
+        "name": "ইয়ামিন (Yamin)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "10",
+        "name": "আকাশ (Akash)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "11",
+        "name": "সুমন (Sumon)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "12",
+        "name": "আক্তার (Aktar)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "13",
+        "name": "রাকিব (Rakib)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "14",
+        "name": "স্মরণ (Smoron)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "15",
+        "name": "আলামিন (Alamin)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "16",
+        "name": "বাপ্পি (Bappi)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "17",
+        "name": "জিহাদ (Jihad)",
+        "phone": "",
+        "isActive": true
+      }
+    ],
+    "days": {
+      "2026-06-01": {
+        "date": "2026-06-01",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-02": {
+        "date": "2026-06-02",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 2,
+            "lunch": 1,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 10
+      },
+      "2026-06-03": {
+        "date": "2026-06-03",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-04": {
+        "date": "2026-06-04",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-05": {
+        "date": "2026-06-05",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-06": {
+        "date": "2026-06-06",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-07": {
+        "date": "2026-06-07",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-08": {
+        "date": "2026-06-08",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-09": {
+        "date": "2026-06-09",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-10": {
+        "date": "2026-06-10",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-11": {
+        "date": "2026-06-11",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-12": {
+        "date": "2026-06-12",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-13": {
+        "date": "2026-06-13",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-14": {
+        "date": "2026-06-14",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-15": {
+        "date": "2026-06-15",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-16": {
+        "date": "2026-06-16",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-17": {
+        "date": "2026-06-17",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 1,
+            "lunch": 1,
+            "dinner": 1
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-18": {
+        "date": "2026-06-18",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-19": {
+        "date": "2026-06-19",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-20": {
+        "date": "2026-06-20",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-21": {
+        "date": "2026-06-21",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-22": {
+        "date": "2026-06-22",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-23": {
+        "date": "2026-06-23",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-24": {
+        "date": "2026-06-24",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-25": {
+        "date": "2026-06-25",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-26": {
+        "date": "2026-06-26",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-27": {
+        "date": "2026-06-27",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-28": {
+        "date": "2026-06-28",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-29": {
+        "date": "2026-06-29",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-06-30": {
+        "date": "2026-06-30",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      }
+    },
+    "bazaar": [
+      {
+        "id": "b1",
+        "date": "2026-06-02",
+        "memberId": "4",
+        "amount": 2900,
+        "details": "চাল ও ডাল বাজার (Rice and Lentils Bazaar)"
+      },
+      {
+        "id": "b2",
+        "date": "2026-06-09",
+        "memberId": "1",
+        "amount": 1500,
+        "details": "সবজি ও মাছ বাজার (Vegetable and Fish Bazaar)"
+      }
+    ],
+    "extraExpenses": [
+      {
+        "id": "e1",
+        "date": "2026-06-01",
+        "amount": 3910,
+        "details": "খালা খরচ (Cook charge - 230 per person)",
+        "splitType": "equal"
+      }
+    ],
+    "fines": {},
+    "deposits": {},
+    "khalaExpenses": {},
+    "defaultKhalaCost": 250,
+    "mealOverrides": {},
+    "passcode": "1234"
+  },
+  "2026-05": {
+    "id": "2026-05",
+    "name": "May 2026 (মে ২০২৬)",
+    "members": [
+      {
+        "id": "1",
+        "name": "ইমরান ভাই (Imran Bhai)",
+        "phone": "01712345678",
+        "isActive": true
+      },
+      {
+        "id": "2",
+        "name": "মাসুদ (Masud)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "3",
+        "name": "অভি (Ovi)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "4",
+        "name": "সাফায়েত ভাই (Safayet Bhai)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "5",
+        "name": "আবির (Abir)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "6",
+        "name": "সোহাগ (Sohag)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "7",
+        "name": "ইমন (Imon)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "8",
+        "name": "হৃদয় (Hridoy)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "9",
+        "name": "ইয়ামিন (Yamin)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "10",
+        "name": "আকাশ (Akash)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "11",
+        "name": "সুমন (Sumon)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "12",
+        "name": "আক্তার (Aktar)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "13",
+        "name": "রাকিব (Rakib)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "14",
+        "name": "স্মরণ (Smoron)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "15",
+        "name": "আলামিন (Alamin)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "16",
+        "name": "বাপ্পি (Bappi)",
+        "phone": "",
+        "isActive": true
+      },
+      {
+        "id": "17",
+        "name": "জিহাদ (Jihad)",
+        "phone": "",
+        "isActive": true
+      }
+    ],
+    "days": {
+      "2026-05-01": {
+        "date": "2026-05-01",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-02": {
+        "date": "2026-05-02",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-03": {
+        "date": "2026-05-03",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-04": {
+        "date": "2026-05-04",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-05": {
+        "date": "2026-05-05",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-06": {
+        "date": "2026-05-06",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-07": {
+        "date": "2026-05-07",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-08": {
+        "date": "2026-05-08",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-09": {
+        "date": "2026-05-09",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-10": {
+        "date": "2026-05-10",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-11": {
+        "date": "2026-05-11",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-12": {
+        "date": "2026-05-12",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-13": {
+        "date": "2026-05-13",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-14": {
+        "date": "2026-05-14",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-15": {
+        "date": "2026-05-15",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-16": {
+        "date": "2026-05-16",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-17": {
+        "date": "2026-05-17",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-18": {
+        "date": "2026-05-18",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-19": {
+        "date": "2026-05-19",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-20": {
+        "date": "2026-05-20",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-21": {
+        "date": "2026-05-21",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-22": {
+        "date": "2026-05-22",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-23": {
+        "date": "2026-05-23",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-24": {
+        "date": "2026-05-24",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-25": {
+        "date": "2026-05-25",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-26": {
+        "date": "2026-05-26",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-27": {
+        "date": "2026-05-27",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-28": {
+        "date": "2026-05-28",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-29": {
+        "date": "2026-05-29",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-30": {
+        "date": "2026-05-30",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      },
+      "2026-05-31": {
+        "date": "2026-05-31",
+        "meals": {
+          "1": {
+            "memberId": "1",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "2": {
+            "memberId": "2",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "3": {
+            "memberId": "3",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "4": {
+            "memberId": "4",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "5": {
+            "memberId": "5",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "6": {
+            "memberId": "6",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "7": {
+            "memberId": "7",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "8": {
+            "memberId": "8",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "9": {
+            "memberId": "9",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "10": {
+            "memberId": "10",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "11": {
+            "memberId": "11",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "12": {
+            "memberId": "12",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "13": {
+            "memberId": "13",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "14": {
+            "memberId": "14",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "15": {
+            "memberId": "15",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "16": {
+            "memberId": "16",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          },
+          "17": {
+            "memberId": "17",
+            "breakfast": 0,
+            "lunch": 0,
+            "dinner": 0
+          }
+        },
+        "totalRice": 0
+      }
+    },
+    "bazaar": [],
+    "extraExpenses": [],
+    "fines": {},
+    "deposits": {},
+    "khalaExpenses": {},
+    "defaultKhalaCost": 230,
+    "mealOverrides": {},
+    "passcode": "1234"
+  }
+}
